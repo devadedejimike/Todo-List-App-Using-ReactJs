@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "9d004f11-245d-4777-8f6b-84cc5395f0d6",
+      "title": "Go home @ 4pm",
+      "done": true,
+      "deleted": false
+    },
+    {
+      "id": "5c779fa5-6f7b-4508-880a-0c9933b6f356",
+      "title": "Attend EED class @2pm",
+      "done": false,
+      "deleted": true
+    },
+    {
+      "id": "edb2c31e-de5c-49c7-ab08-8bede71f694d",
+      "title": "Buy Pepper on your way home from school",
+      "done": true,
+      "deleted": false
+    }
+  ]
+}
